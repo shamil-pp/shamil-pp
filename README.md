@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
-<h3 align="center">Experienced Flutter developer with 3+ years in mobile app development, both professionally and as a freelancer. I have supervised a team of developers, providing guidance and resolving technical challenges.
+<h3 align="center">Flutter developer with 3+ YEO in mobile app development. I have freelanced for clients, independently developed and launched successful apps, and most recently worked as a Lead Developer in a company. My own apps have achieved over 4 million installs in the Google Play Store.
 
-As a solopreneur at KL-TechE, I’ve launched apps on the Google Play Store, with over 3.9 million installs.</h3>
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terminal239&label=Profile%20views&color=0e75b6&style=flat" alt="terminal239" /> </p>
