@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamil</h1>
-<h3 align="center">Mobile app developer with 3+ YEO Flutter. I have freelanced for clients, published successful personal apps, and led a development team. My personal apps have achieved over 4 million installs in the Google Play Store.
+<h3 align="center">Mobile app developer with 3+ YEO in Flutter. I have freelanced for clients, published successful personal apps, and led a development team. My personal apps have achieved over 4 million installs in the Google Play Store.
 
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
